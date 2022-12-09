@@ -403,3 +403,4 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 dall-e-telegram-bot/telegramkey.txt
+dall-e-telegram-bot/openaikey.txt
